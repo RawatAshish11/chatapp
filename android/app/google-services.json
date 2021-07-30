@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "469905115497",
+    "project_id": "chatapp-97b77",
+    "storage_bucket": "chatapp-97b77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469905115497:android:66ce31f0f646ea3a40d5f8",
+        "android_client_info": {
+          "package_name": "com.cynoteck.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469905115497-hae0gc62s7qte9pltqn2n6k6do7nf7pi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cynoteck.chatapp",
+            "certificate_hash": "1f0d081cb61761f5e66d9212ca90de9444ea416c"
+          }
+        },
+        {
+          "client_id": "469905115497-1rukfac9uqehr7tv0opci9kdl6vnfig3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkVVooi3XHLBLV8bo8VNS02os3WFQyyxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469905115497-1rukfac9uqehr7tv0opci9kdl6vnfig3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
